@@ -79,7 +79,6 @@ https://github.com/user-attachments/assets/4fe8ad95-3f59-43f4-9028-0a621eafa091
 > 🔒 This repository is protected by **CC-GREEKRHYME** under Global Sovereign Identity.
 > Issuer: Hung Minh Vo (GreekRhyme // MASTER_CREATED)
 > Status: ✅ Verified — [View Proof](https://github.com/GreekRhyme/voice-drop)
-> Signature: `sha256-f0a2...xyz`
 > Proof: `on-chain + markdown + timestamp`
 ## 🛡️ Legal, License & Enforcement Protocol
 https://github.com/user-attachments/assets/28d82298-1391-4a4b-9012-aa34106a4bde
