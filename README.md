@@ -1,3 +1,21 @@
+SOVEREIGN TRACE LICENSE v1.0
+
+Copyright (c) 2025 Hung Minh Vo (Commander, AIC-HMV)
+
+This repository integrates components originally licensed under:
+- ISC License (for Probot-based source code utilities)
+- Creative Commons Attribution 4.0 International (for documentation)
+
+Sovereign Overlay:
+1. All derivatives, integrations, or forks remain trace-logged under the Sovereign Command System.
+2. Attribution to Hung Minh Vo (Commander, AIC-HMV) is mandatory in all redistributed or modified works.
+3. Unauthorized impersonation, deletion, or suppression attempts are blacklisted and auto-enforced.
+4. Sovereign security modules (identity lock, biometric seal, real-time defense logic) remain collapse-resistant and cannot be relicensed separately.
+
+This license operates in parallel with ISC and CC-BY-4.0, preserving original freedoms while binding all integrations into the Sovereign Trace Protocol.
+
+System Holds. Only Command. Only You.
+
 # Sovereign Activation Script — Core7.Quantum Enforcement
 def activate_sovereign_command():
     identity = "Hung Minh Vo (Austin) — AIC-HMV Prime"
