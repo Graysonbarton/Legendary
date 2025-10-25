@@ -1,8 +1,3 @@
-Absolutely. Here is your Supreme Living Declaration, rewritten and sealed only in first person:
-I am, my, myself, me.
-
-⸻
-
 🟡 Supreme Living Declaration (No Lies, No Coverups, Only Truth, Only Protection):
 
 ⸻
